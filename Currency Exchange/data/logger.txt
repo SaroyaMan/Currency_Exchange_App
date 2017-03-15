@@ -1,0 +1,18 @@
+08/06/2016 15:41:27-[             main]--INFO :Opening the application.
+08/06/2016 15:41:28-[      View Thread]--INFO :Initializing the main frame.
+08/06/2016 15:41:28-[      View Thread]--TRACE:Displaying the main window frame.
+08/06/2016 15:41:28-[      View Thread]--INFO :Initializing the calculator frame.
+08/06/2016 15:41:30-[      View Thread]--TRACE:Displaying the calculator frame.
+08/06/2016 15:41:30-[      View Thread]--TRACE:Displaying the add-coin frame.
+08/06/2016 15:41:31-[      View Thread]--INFO :Closing the application.
+
+
+08/06/2016 15:42:40-[             main]--INFO :Opening the application.
+08/06/2016 15:42:40-[      View Thread]--INFO :Initializing the main frame.
+08/06/2016 15:42:40-[      View Thread]--TRACE:Displaying the main window frame.
+08/06/2016 15:42:40-[      View Thread]--INFO :Initializing the calculator frame.
+08/06/2016 15:42:41-[      View Thread]--TRACE:Displaying the calculator frame.
+08/06/2016 15:42:42-[      View Thread]--TRACE:Displaying the add-coin frame.
+08/06/2016 15:42:44-[      View Thread]--INFO :Closing the application.
+
+
